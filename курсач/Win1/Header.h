@@ -1,0 +1,1 @@
+void mistake(char fraza[]);
